@@ -56,5 +56,6 @@ To use this plugin with BIM Vision:
 ### 🔹 Plugin not appearing in the BIM Vision ribbon
 
 If the plugin does not show up in the BIM Vision interface after installation, make sure you're using **BIM Vision version 3.0.1**. Compatibility with other versions is not guaranteed and may cause the plugin to be ignored or fail to load.
+
 ![image](https://github.com/user-attachments/assets/ca2c58e3-f1fc-4eb5-8c22-e8050c7d3a27)
 
