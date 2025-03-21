@@ -36,7 +36,7 @@ If the project fails to build after installing the required tools, try the follo
 
 To use this plugin with BIM Vision:
 
-1. Download the compiled `.dll` files from the [Releases](https://github.com/your-repo/releases) section.
+1. Download the compiled `.dll` files from the [Releases](https://github.com/BIMVision-FindByGuid/releases) section.
 2. Paste the files into the appropriate BIM Vision plugins directory.
 
 **Plugin installation paths:**
