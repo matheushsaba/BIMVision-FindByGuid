@@ -1,5 +1,20 @@
 # FindByGuid
 
+## 🔍 What is FindByGuid?
+
+**FindByGuid** is a BIM Vision plugin that allows you to search for specific elements within an open IFC model using their Global ID (GUID).
+
+### ✨ What It Does
+
+- Prompts the user to input a Global ID.
+- Scans all elements in the currently open IFC file.
+- Selects the elements that match the given Global ID.
+- Automatically focuses the view on the selected elements for quick inspection.
+
+This is especially useful for quickly locating and inspecting elements based on their unique identifiers in coordination or debugging workflows.
+
+---
+
 ## 🛠️ Building the Project
 
 To build this project, you'll need the following dependencies:
