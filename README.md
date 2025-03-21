@@ -6,7 +6,7 @@ To build this project, you'll need the following dependencies:
 
 - [.NET Framework 4.5.2 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net452)  
 - [Microsoft Build Tools 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48159)
-- [.NET Framework 3.5 runtime]([https://www.microsoft.com/en-us/download/details.aspx?id=48159](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1))
+- [.NET Framework 3.5 runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1)
   
 If the project fails to build after installing the required tools, try the following:
 
@@ -32,5 +32,5 @@ To use this plugin with BIM Vision:
 - **64-bit version:**  
   `C:\Program Files (x86)\Datacomp\BIM Vision\plugins_x64`
 
-64-bit version:
-C:\Program Files (x86)\Datacomp\BIM Vision\plugins_x64
+![image](https://github.com/user-attachments/assets/220f3119-4bdc-4c24-b523-74dfc8bb12c6)
+
