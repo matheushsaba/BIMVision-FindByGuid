@@ -47,7 +47,8 @@ To use this plugin with BIM Vision:
 - **64-bit version:**  
   `C:\Program Files (x86)\Datacomp\BIM Vision\plugins_x64`
 
-![image](https://github.com/user-attachments/assets/220f3119-4bdc-4c24-b523-74dfc8bb12c6)
+![image](https://github.com/user-attachments/assets/c7d2735a-7cf1-49d0-b099-f78a1e058620)
+![image](https://github.com/user-attachments/assets/3a07f941-db23-4d3e-a93d-046bdb1c3673)
 
 ---
 
