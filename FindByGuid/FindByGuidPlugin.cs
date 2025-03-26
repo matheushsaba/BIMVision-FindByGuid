@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace FindByGuid
 {
-    using BIMVision;
-    using System.Runtime.InteropServices;
     using System.Windows.Forms;
 
-    class MyPlugin : Plugin
+    using BIMVision;
+
+    class FindByGuid : Plugin
     {
         private ApiWrapper api;
 

@@ -7,7 +7,7 @@
     <ProjectGuid>{929A6B6E-FE1B-4473-BD5E-0DE9DEA4C43A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FindGuid</RootNamespace>
+    <RootNamespace>FindByGuid</RootNamespace>
     <AssemblyName>FindByGuid</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -68,7 +68,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="RGiesecke.DllExport.Metadata, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8f52d83c1a22df51, processorArchitecture=MSIL">
+    <Reference Include="RGiesecke.DllExport.Metadata">
       <HintPath>..\packages\UnmanagedExports.Repack.1.0.4\lib\net452\RGiesecke.DllExport.Metadata.dll</HintPath>
     </Reference>
     <Reference Include="System" />
