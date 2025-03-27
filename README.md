@@ -13,6 +13,8 @@
 
 This is especially useful for quickly locating and inspecting elements based on their unique identifiers in coordination or debugging workflows.
 
+![FindbyguidSamplePreview](https://github.com/user-attachments/assets/5bb4cbaf-8043-491f-b66e-b964a42ea9ef)
+
 ---
 
 ## 🛠️ Building the Project
